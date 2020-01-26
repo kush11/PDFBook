@@ -1,0 +1,227 @@
+[
+   //  {
+   //     "id": "1",
+   //     "name": "English",
+   //     "samplePaper": [
+   //        {
+   //           "id": "1",
+   //           "name": "Communicative -2012 Set 1",
+   //           "pdfLink": ""
+   //        },
+   //        {
+   //           "id": "2",
+   //           "name": "Communicative -2012 Set 2",
+   //           "pdfLink": ""
+   //        }
+   //     ]
+   //  },
+   //  {
+   //     "id": "2",
+   //     "name": "Hindi",
+   //     "samplePaper": [
+   //        {
+   //           "id": "1",
+   //           "name": "Hindi -2012 Course 1",
+   //           "pdfLink": ""
+   //        },
+   //        {
+   //           "id": "2",
+   //           "name": "Hindi -2012 Course 2",
+   //           "pdfLink": ""
+   //        }
+   //     ]
+   //  },
+    {
+       "id": "3",
+       "name": "Mathmatics",
+       "samplePaper": [
+          {
+             "id": "1",
+             "name": "Sample Paper 1 (Standard)",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700002241_Topper_2_101_2_3_Mathematics_question_up201909301831_1569848518_6484.pdf"
+          },
+          {
+             "id": "2",
+             "name": "Sample Paper 1 (Standard) – Solution",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700002241_Topper_2_101_2_3_Mathematics_solution_up201909301831_1569848518_6927.pdf"
+          },
+          {
+             "id": "3",
+             "name": "Sample Paper 2 (Standard)",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700002342_Topper_2_101_2_3_Mathematics_question_up201909301832_1569848570_5091.pdf"
+          },
+          {
+             "id": "4",
+             "name": "Sample Paper 2 (Standard) – Solution",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700002342_Topper_2_101_2_3_Mathematics_solution_up201909301832_1569848570_5657.pdf"
+          },
+          {
+             "id": "5",
+             "name": "Sample Paper 3 (Standard)",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700002505_Topper_2_101_2_3_Mathematics_question_up201910031515_1570095924_4789.pdf"
+          },
+          {
+             "id": "6",
+             "name": "Sample Paper 3 (Standard) – Solution",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700002505_Topper_2_101_2_3_Mathematics_solution_up201910031515_1570095924_5147.pdf"
+          },
+          {
+             "id": "7",
+             "name": "Sample Paper 1 (Basic)",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700003043_Topper_2_101_2_3_Mathematics_question_up201910111203_1570775580_467.pdf"
+          },
+          {
+             "id": "8",
+             "name": "Sample Paper 1 – Solution",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700003043_Topper_2_101_2_3_Mathematics_solution_up201910111203_1570775580_5086.pdf"
+          },
+          {
+             "id": "9",
+             "name": "Sample Paper 2 (Basic)",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700003049_Topper_2_101_2_3_Mathematics_question_up201910151251_1571124109_6616.pdf"
+          },
+          {
+             "id": "10",
+             "name": "Sample Paper 4 (Basic)",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700003050_Topper_2_101_2_3_Mathematics_question_up201910181315_1571384705_5871.pdf"
+          },
+          {
+             "id": "11",
+             "name": "Sample Paper 4 (Basic) – Solution",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700003050_Topper_2_101_2_3_Mathematics_solution_up201910181315_1571384705_6565.pdf"
+          },
+          {
+             "id": "12",
+             "name": "Sample Paper 3 (Basic)",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700003060_Topper_2_101_2_3_Mathematics_question_up201910231320_1571817014_8635.pdf"
+          },
+          {
+             "id": "13",
+             "name": "Sample Paper 3 (Basic) – Solution",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700003060_Topper_2_101_2_3_Mathematics_solution_up201910231320_1571817014_9452.pdf"
+          },
+          {
+             "id": "14",
+             "name": "Sample Paper 5 (Basic)",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700003062_Topper_2_101_2_3_Mathematics_question_up201910251829_1572008352_2303.pdf"
+          },
+          {
+             "id": "15",
+             "name": "Sample Paper 5 (Basic) – Solution",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Math/700003062_Topper_2_101_2_3_Mathematics_solution_up201910251829_1572008352_2656.pdf"
+          }
+       ]
+    },
+    {
+       "id": "4",
+       "name": "Science",
+       "samplePaper": [
+         {
+            "id": "1",
+            "name": "Sample Paper 1",
+            "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Science/700002258_Topper_2_101_2_5_Science_question_up201909261850_1569504003_41.pdf"
+         },
+         {
+            "id": "2",
+            "name": "Sample Paper 1 – Solution",
+            "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Science/700002258_Topper_2_101_2_5_Science_solution_up201909261850_1569504003_4404.pdf"
+         },
+         {
+            "id": "3",
+            "name": "Sample Paper 2",
+            "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Science/700002261_Topper_2_101_2_5_Science_question_up201909261851_1569504077_1379.pdf"
+         },
+         {
+            "id": "4",
+            "name": "Sample Paper 2  – Solution",
+            "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Science/700002261_Topper_2_101_2_5_Science_solution_up201909261851_1569504077_1691.pdf"
+         },
+         {
+            "id": "5",
+            "name": "Sample Paper 3",
+            "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Science/700002267_Topper_2_101_2_5_Science_question_up201909261852_1569504146_7948.pdf"
+         },
+         {
+            "id": "6",
+            "name": "Sample Paper 3 – Solution",
+            "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Science/700002267_Topper_2_101_2_5_Science_solution_up201909261852_1569504146_8243.pdf"
+         },
+         {
+            "id": "7",
+            "name": "Sample Paper 4",
+            "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Science/700002529_Topper_2_101_2_5_Science_question_up201909301017_1569818855_4068.pdf"
+         },
+         {
+            "id": "8",
+            "name": "Sample Paper 4 – Solution",
+            "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Science/700002529_Topper_2_101_2_5_Science_solution_up201909301017_1569818855_4293.pdf"
+         },
+         {
+            "id": "9",
+            "name": "Sample Paper 5",
+            "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Science/700002530_Topper_2_101_2_5_Science_question_up201910011306_1569915414_7021.pdf"
+         },
+         {
+            "id": "10",
+            "name": "Sample Paper 5 – Solution",
+            "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Science/700002530_Topper_2_101_2_5_Science_solution_up201910011306_1569915414_7231.pdf"
+         }         
+      ]
+    },
+    {
+       "id": "5",
+       "name": "Social Science",
+       "samplePaper": [
+          {
+             "id": "1",
+             "name": "Sample Paper I (Updated 2019-20)",
+             "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Social_Study/700002245_Topper_2_101_2_15_Social_Studies_question_up201909251843_1569417212_5169.pdf"
+          },
+          {
+            "id": "2",
+            "name": "Sample Paper 1 (Updated 2019-20) Solutions",
+            "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Social_Study/700002245_Topper_2_101_2_15_Social_Studies_solution_up201909251843_1569417212_5569.pdf"
+         },
+         {
+           "id": "3",
+           "name": "Sample Paper 2 (Updated 2019-20)",
+           "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Social_Study/700002246_Topper_2_101_2_15_Social_Studies_question_up201912021432_1575277378_3481.pdf"
+         },
+         {
+          "id": "4",
+          "name": "Sample Paper 2 (Updated 2019-20) Solutions",
+          "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Social_Study/700002246_Topper_2_101_2_15_Social_Studies_solution_up201912021432_1575277378_3705.pdf"
+         },
+         {
+          "id": "5",
+          "name": "Sample Paper 3 (Updated 2019-20)",
+          "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Social_Study/700002510_Topper_2_101_2_15_Social_Studies_question_up201909301744_1569845680_8467.pdf"
+         },
+         {
+          "id": "6",
+          "name": "Sample Paper 3 (Updated 2019-20) Solutions",
+          "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Social_Study/700002510_Topper_2_101_2_15_Social_Studies_solution_up201909301744_1569845680_8731.pdf"
+         },
+         {
+          "id": "7",
+          "name": "Sample Paper 4 (Updated 2019-20)",
+          "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Social_Study/700002515_Topper_2_101_2_15_Social_Studies_question_up201909301745_1569845709_7751.pdf"
+         },
+         {
+          "id": "8",
+          "name": "Sample Paper 4 (Updated 2019-20) Solutions",
+          "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Social_Study/700002515_Topper_2_101_2_15_Social_Studies_solution_up201909301745_1569845709_798.pdf"
+         },
+         {
+          "id": "9",
+          "name": "Sample Paper 5 (Updated 2019-20)",
+          "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Social_Study/700002748_Topper_2_101_2_15_Social_Studies_question_up201910011809_1569933561_6614.pdf"
+         },
+         {
+          "id": "10",
+          "name": "Sample Paper 5 (Updated 2019-20) Solutions",
+          "pdfLink": "https://class10server.herokuapp.com/pdf/Sample_Paper/Social_Study/700002748_Topper_2_101_2_15_Social_Studies_solution_up201910011809_1569933561_6991.pdf"
+         }
+       ]
+    }
+ ]

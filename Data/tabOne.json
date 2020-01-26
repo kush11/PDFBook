@@ -1,0 +1,371 @@
+[
+    {
+        "id":1,
+        "name": "English",
+        "samplePaper": [
+            {
+                "id": 1,
+                "name": "Communicative -2019",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Communicative Previous Year Question Paper 2019 Set-1.pdf"
+            },
+            {
+                "id": 2,
+                "name": "Communicative -2018",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Language and Literature Previous Year Question Paper 2018 Set-2.pdf"
+            },
+            {
+                "id": 3,
+                "name": "Communicative -2016 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Communicative Previous Year Question Paper 2016 Set-1.pdf"
+            },
+            {
+                "id": 4,
+                "name": "Communicative -2016 Set 2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Communicative Previous Year Question Paper 2015 Set-2.pdf"
+            },
+            {
+                "id": 5,
+                "name": "Language and Literature -2015 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Language and Literature Previous Year Question Paper 2015 Set-1.pdf"
+            },
+            {
+                "id": 6,
+                "name": "Language and Literature -2015 Set 2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Language and Literature Previous Year Question Paper 2015 Set-2.pdf"
+            },
+            {
+                "id": 7,
+                "name": "Language and Literature -2015 Internal",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Language and Literature Previous Year Question Paper 2015 Internal.pdf"
+            },
+            {
+                "id": 8,
+                "name": "Communicative -2014",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Communicative Previous Year Question Paper 2014 Set-1.pdf"
+            },
+            {
+                "id": 9,
+                "name": "Communicative -2013 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Communicative Previous Year Question Paper 2013 Set-1.pdf"
+            },
+            {
+                "id": 10,
+                "name": "Communicative -2012 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Communicative Previous Year Question Paper 2012 Set-1.pdf"
+            },
+            {
+                "id": 11,
+                "name": "Communicative -2012 Set 2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Communicative Previous Year Question Paper 2012 Set-2.pdf"
+            },
+            {
+                "id": 12,
+                "name": "Communicative -2012 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Communicative Previous Year Question Paper 2012 Set-3.pdf"
+            },
+            {
+                "id": 13,
+                "name": "Communicative -2012 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/English/CBSE Class 10 English Language and Literature Previous Year Question Paper 2012 Set-1.pdf"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "name": "Hindi",
+        "samplePaper": [
+            {
+                "id": 1,
+                "name": "Hindi -2019 Course B",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2019 Course B Set 2.pdf"
+            },
+            {
+                "id": 2,
+                "name": "Hindi -2018 Course A Set-1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2018 Delhi Course A Set-1.pdf"
+            },
+            {
+                "id": 3,
+                "name": "Hindi -2018 Course A Set-2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2018 Delhi Course A Set-2.pdf"
+            },
+            {
+                "id": 4,
+                "name": "Hindi -2018 Course A Set-3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2018 Delhi Course A Set-3.pdf"
+            },
+            {
+                "id": 5,
+                "name": "Hindi -2018 Course B Set-3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2018 Course B Set-3.pdf"
+            },
+            {
+                "id": 6,
+                "name": "Hindi -2017 Course A Set-2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2017 Course A Set-2.pdf"
+            },
+            {
+                "id": 7,
+                "name": "Hindi -2017 Course B Set-2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2017 Course B Set-2.pdf"
+            },
+            {
+                "id": 8,
+                "name": "Hindi -2016 Course B Set-1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2016 Course B Set-1.pdf"
+            },
+            {
+                "id": 9,
+                "name": "Hindi -2016 Course B Set-2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2016 Course B Set-2.pdf"
+            },
+            {
+                "id": 10,
+                "name": "Hindi -2016 Course B Set-3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2016 Course B Set-3.pdf"
+            },
+            {
+                "id": 11,
+                "name": "Hindi -2016 Course A Set-1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2016 Delhi Course A Set-1.pdf"
+            },
+            {
+                "id": 12,
+                "name": "Hindi -2015 Course A",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2015 Course A.pdf"
+            },
+            {
+                "id": 13,
+                "name": "Hindi -2015 Course B",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2015 Course B.pdf"
+            },
+            {
+                "id": 14,
+                "name": "Hindi -2014",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2014.pdf"
+            },
+            {
+                "id": 15,
+                "name": "Hindi -2013 Course A",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2013 Course A.pdf"
+            },
+            {
+                "id": 16,
+                "name": "Hindi -2013 Course B",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2013 Course B.pdf"
+            },
+            {
+                "id": 17,
+                "name": "Hindi -2012 Course A",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Hindi/CBSE Class 10 Hindi Previous Year Question Paper 2012 Course A.pdf"
+            }
+        ]
+
+    },
+    {
+        "id": 3,
+        "name": "Mathmatics",
+        "samplePaper": [
+            {
+                "id": 1,
+                "name": "Mathmatics -2019 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 19 set-3.pdf"
+            },
+            {
+                "id": 2,
+                "name": "Mathmatics -2018 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 18 set-3.pdf"
+            },
+            {
+                "id": 3,
+                "name": "Mathmatics -2017 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 17 set-3.pdf"
+            },
+            {
+                "id": 4,
+                "name": "Mathmatics -2016 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 16 set-1.pdf"
+            },
+            {
+                "id": 5,
+                "name": "Mathmatics -2015 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 15 set-1.pdf"
+            },
+            {
+                "id": 6,
+                "name": "Mathmatics -2015 Set 2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 15 set-2.pdf"
+            },
+            {
+                "id": 7,
+                "name": "Mathmatics -2015 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 15 set-3.pdf"
+            },
+            {
+                "id": 8,
+                "name": "Mathmatics -2014 ",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 14 set-2.pdf"
+            },
+            {
+                "id": 9,
+                "name": "Mathmatics -2013",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 13 set-1.pdf"
+            },
+            {
+                "id": 10,
+                "name": "Mathmatics -2012 ",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 12 set-1.pdf"
+            }
+        ]
+
+    },
+    {
+        "id": 4,
+        "name": "Science",
+        "samplePaper": [
+            {
+                "id": 1,
+                "name": "Science -2019 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 19 set-1.pdf"
+            },
+            {
+                "id": 2,
+                "name": "Science -2018 Set 2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 18 set-2.pdf"
+            },
+            {
+                "id": 3,
+                "name": "Science -2017 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 17 set-3.pdf.pdf"
+            },
+            {
+                "id": 4,
+                "name": "Science -2016 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 16 set-3.pdf.pdf"
+            },
+            {
+                "id": 5,
+                "name": "Science -2015 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 15 set-1.pdf"
+            },
+            {
+                "id": 6,
+                "name": "Science -2015 Set 2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 15 set-2.pdf"
+            },
+            {
+                "id": 7,
+                "name": "Science -2015 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 15 set-3.pdf"
+            },
+            {
+                "id": 8,
+                "name": "Science -2014 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 14 set-3.pdf"
+            },
+            {
+                "id": 9,
+                "name": "Science -2013 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 13 set-1.pdf"
+            },
+            {
+                "id": 10,
+                "name": "Science -2013 Set 2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 13 set-2.pdf"
+            },
+            {
+                "id": 11,
+                "name": "Science -2012 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 12 set-3.pdf"
+            },
+            {
+                "id": 12,
+                "name": "Science -2011 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 11 set-1.pdf"
+            },
+            {
+                "id": 13,
+                "name": "Science -2010 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 10 set-1.pdf"
+            },
+            {
+                "id": 14,
+                "name": "Science -2019 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 09 set-1.pdf"
+            },
+            {
+                "id": 15,
+                "name": "Science -2008 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 08 set-1.pdf"
+            },
+            {
+                "id": 16,
+                "name": "Science -2007 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 07 set-1.pdf"
+            }
+        ]
+
+    },
+    {
+        "id": 5,
+        "name": "Social Science",
+        "samplePaper": [
+            {
+                "id": 1,
+                "name": "Social Science -2019 Set 2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Social_Science/CBSE class 10 Social Science Previous Year Question Paper 2019 Set-2.pdf"
+            },
+            {
+                "id": 2,
+                "name": "Social Science -2018 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Social_Science/CBSE class 10 Social Studies Previous Year Question Paper 2018 Set-3.pdf"
+            },
+            {
+                "id": 3,
+                "name": "Social Science -2017",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Social_Science/CBSE class 10 Social Studies Previous Year Question Paper 2017.pdf"
+            },
+            {
+                "id": 4,
+                "name": "Social Science -2016 Set 1",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Social_Science/CBSE class 10 Social Studies Previous Year Question Paper 2016 Set-1.pdf"
+            },
+            {
+                "id": 5,
+                "name": "Social Science -2016 Set 2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Social_Science/CBSE class 10 Social Studies Previous Year Question Paper 2016 Internal.pdf"
+            },
+            {
+                "id": 6,
+                "name": "Social Science -2016  Internal Paper",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Social_Science/CBSE class 10 Social Studies Previous Year Question Paper 2016 Internal.pdf"
+            },
+            {
+                "id": 7,
+                "name": "Social Science -2015  Internal Paper",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Social_Science/CBSE class 10 Social Studies Previous Year Question Paper 2015 Internal.pdf"
+            },
+            {
+                "id": 8,
+                "name": "Social Science -2015 Set 2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Social_Science/CBSE class 10 Social Studies Previous Year Question Paper 2015 Set-2.pdf"
+            },
+            {
+                "id": 9,
+                "name": "Social Science -2015 Set 3",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Social_Science/CBSE class 10 Social Studies Previous Year Question Paper 2015 Set-3.pdf"
+            },
+            {
+                "id": 10,
+                "name": "Social Science -2014 Set 2",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Social_Science/CBSE class 10 Social Studies Previous Year Question Paper 2014.pdf"
+            },
+            {
+                "id": 11,
+                "name": "Social Science -2013",
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Social_Science/CBSE class 10 Social Studies Previous Year Question Paper 2013.pdf"
+            }            
+        ]
+
+    }
+]
