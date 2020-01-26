@@ -13,7 +13,7 @@ export default class tabTree extends PureComponent {
     renderItem = ({ item }) => {
         return (
             <View style={{ height: 60, width: '100%' }}>
-                <ItemData data={tabThreeJsonData} item={item} navigation={this.props.navigation} />
+                <ItemData title ={item.name} data={tabThreeJsonData} item={item} navigation={this.props.navigation} />
             </View>
         )
     }
@@ -25,7 +25,7 @@ export default class tabTree extends PureComponent {
                     <FlatList
                         data={tabThreeJsonData}
                         renderItem={this.renderItem}
-                        keyExtractor={item => item.id}
+                        keyExtractor={item => item.id.toString()}
                     />
                 </SafeAreaView>
             </View>

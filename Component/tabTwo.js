@@ -13,7 +13,7 @@ export default class tabTwo extends PureComponent {
     renderItem = ({ item }) => {
         return (
             <View style={{ height: 60, width: '100%' }}>
-                <ItemData data={tabTwoJsonData} item={item} navigation={this.props.navigation} />
+                <ItemData title ={item.name} data={tabTwoJsonData} item={item} navigation={this.props.navigation} />
             </View>
         )
     }
@@ -25,7 +25,7 @@ export default class tabTwo extends PureComponent {
                     <FlatList
                         data={tabTwoJsonData}
                         renderItem={this.renderItem}
-                        keyExtractor={item => item.id}
+                        keyExtractor={item => item.id.toString()}
                     />
                 </SafeAreaView>
             </View>

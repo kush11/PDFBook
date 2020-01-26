@@ -7,7 +7,7 @@ export default class tabOne extends PureComponent {
     renderItem = ({ item }) => {        
         return (
             <View style={{ height: 60, width: '100%' }}>
-                <ItemData data={tabOneJsonData} item={item} navigation={this.props.navigation} />
+                <ItemData title ={item.name} data={tabOneJsonData} item={item} navigation={this.props.navigation} />
             </View>
         )
     }
@@ -19,7 +19,7 @@ export default class tabOne extends PureComponent {
                     <FlatList
                         data={tabOneJsonData}
                         renderItem={this.renderItem}
-                        keyExtractor={item => item.id}
+                        keyExtractor={item => item.id.toString()}
                     />
                 </SafeAreaView>
             </View>
