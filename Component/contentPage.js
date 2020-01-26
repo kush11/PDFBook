@@ -8,6 +8,12 @@ class componentName extends PureComponent {
         this.state = {
         };
     }
+    static navigationOptions = ({ navigation }) => {
+        const { params } = navigation.state;
+        return {
+            title: params ? params.title : 'Class 10',
+        };
+      };
     renderItem = ({ item, navigation }) => {        
         return (
             <View style={{ height: 60, width: '100%' }}>
@@ -89,7 +95,7 @@ class componentName extends PureComponent {
                     <FlatList
                         data={allData}
                         renderItem={(item) => this.renderItem(item)}
-                        keyExtractor={item => item.id}
+                        keyExtractor={item => item.id.toString()}
                     />
                 </SafeAreaView>
             </View>
