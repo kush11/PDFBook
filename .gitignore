@@ -5,10 +5,7 @@
 ._*
 
 # VS Code
-.vscode/
-.vscode/*
-.vscode/**/*
-.vscode/launch.json
+
 .vscode/.react/debuggerWorker.js
 .vscode/.react/index.bundle
 .vscode/.react/index.map
