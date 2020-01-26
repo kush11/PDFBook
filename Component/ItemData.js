@@ -1,7 +1,7 @@
 import React from 'react';
 import { Text, View, TouchableOpacity, Dimensions, StyleSheet, FlatList } from 'react-native';
 
-const ItemData = ({ data, item, navigation }) => {
+const ItemData = ({ data, item, navigation, title }) => {
     // console.log(item.samplePaper);
     return (
         <View style={{ flex: 1, padding: 5 }}>
@@ -12,7 +12,7 @@ const ItemData = ({ data, item, navigation }) => {
                     navigation.navigate('ContentPage', {
                         datas: data,
                         item: item.samplePaper,
-                        
+                        title,
                     });
                 }
 
