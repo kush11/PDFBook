@@ -113,17 +113,14 @@ const PdfComponent = (props) => {
                     onLoadComplete={(numberOfPages, filePath, { width, height }, tableContents) => {
                         // setprops({
                         //     numberOfPages: numberOfPages
-                        // });
-                        console.log(`total page count: ${numberOfPages}`);
-                        console.log(tableContents);
+                        // });                        
                     }}
                     onPageChanged={(page, numberOfPages) => {
                         // setprops({
                         //     page: page
                         // });
                         pageNumber = page;
-                        setPage(page)
-                        console.log(`current page: ${page}`);
+                        setPage(page)                        
                     }}
                     onError={(error) => {
                         console.log(error);
