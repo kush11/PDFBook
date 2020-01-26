@@ -4,15 +4,11 @@ import { Item } from 'native-base';
 
 class componentName extends PureComponent {
     constructor(props) {
-        super(props);
-        console.log(this.props);
+        super(props);        
         this.state = {
         };
     }
-    renderItem = ({ item, navigation }) => {
-        console.log(this.props);
-        console.log(this.props.navigation);
-
+    renderItem = ({ item, navigation }) => {        
         return (
             <View style={{ height: 60, width: '100%' }}>
                 <TouchableOpacity style={styles.elevation}
@@ -53,13 +49,11 @@ class componentName extends PureComponent {
 
     render() {
         const { navigation } = this.props;
-        //itemId: {JSON.stringify(navigation.getParam('itemId', 'NO-ID'))}
-        console.log(JSON.stringify(navigation.getParam('item')));
+        //itemId: {JSON.stringify(navigation.getParam('itemId', 'NO-ID'))}        
         const contentPageData = navigation.getParam('item');
         const allDataFromPage = navigation.getParam('datas');
         // contentPageData.samplePaper.english.map((d)=>{console.log(d)})
-        const allData = contentPageData;
-        console.log(allData);
+        const allData = contentPageData;        
         return (
             // <View style={{ flex: 1, padding: 5 }}>
             //     {allData.map((data, index) => (
