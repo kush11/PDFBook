@@ -164,56 +164,56 @@
     },
     {
         "id": 3,
-        "name": "Mathmatics",
+        "name": "Mathematics",
         "samplePaper": [
             {
                 "id": 1,
-                "name": "Mathmatics -2019 Set 3",
+                "name": "Mathematics -2019 Set 3",
                 "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 19 set-3.pdf"
             },
             {
                 "id": 2,
-                "name": "Mathmatics -2018 Set 3",
+                "name": "Mathematics -2018 Set 3",
                 "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 18 set-3.pdf"
             },
             {
                 "id": 3,
-                "name": "Mathmatics -2017 Set 3",
+                "name": "Mathematics -2017 Set 3",
                 "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 17 set-3.pdf"
             },
             {
                 "id": 4,
-                "name": "Mathmatics -2016 Set 1",
+                "name": "Mathematics -2016 Set 1",
                 "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 16 set-1.pdf"
             },
             {
                 "id": 5,
-                "name": "Mathmatics -2015 Set 1",
+                "name": "Mathematics -2015 Set 1",
                 "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 15 set-1.pdf"
             },
             {
                 "id": 6,
-                "name": "Mathmatics -2015 Set 2",
+                "name": "Mathematics -2015 Set 2",
                 "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 15 set-2.pdf"
             },
             {
                 "id": 7,
-                "name": "Mathmatics -2015 Set 3",
+                "name": "Mathematics -2015 Set 3",
                 "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 15 set-3.pdf"
             },
             {
                 "id": 8,
-                "name": "Mathmatics -2014 ",
+                "name": "Mathematics -2014 ",
                 "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 14 set-2.pdf"
             },
             {
                 "id": 9,
-                "name": "Mathmatics -2013",
+                "name": "Mathematics -2013",
                 "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 13 set-1.pdf"
             },
             {
                 "id": 10,
-                "name": "Mathmatics -2012 ",
+                "name": "Mathematics -2012 ",
                 "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/math 12 set-1.pdf"
             }
         ]
@@ -226,82 +226,82 @@
             {
                 "id": 1,
                 "name": "Science -2019 Set 1",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 19 set-1.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 19 set-1.pdf"
             },
             {
                 "id": 2,
                 "name": "Science -2018 Set 2",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 18 set-2.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 18 set-2.pdf"
             },
             {
                 "id": 3,
                 "name": "Science -2017 Set 3",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 17 set-3.pdf.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 17 set-3.pdf.pdf"
             },
             {
                 "id": 4,
                 "name": "Science -2016 Set 3",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 16 set-3.pdf.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 16 set-3.pdf.pdf"
             },
             {
                 "id": 5,
                 "name": "Science -2015 Set 1",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 15 set-1.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 15 set-1.pdf"
             },
             {
                 "id": 6,
                 "name": "Science -2015 Set 2",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 15 set-2.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 15 set-2.pdf"
             },
             {
                 "id": 7,
                 "name": "Science -2015 Set 3",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 15 set-3.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 15 set-3.pdf"
             },
             {
                 "id": 8,
                 "name": "Science -2014 Set 3",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 14 set-3.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 14 set-3.pdf"
             },
             {
                 "id": 9,
                 "name": "Science -2013 Set 1",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 13 set-1.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 13 set-1.pdf"
             },
             {
                 "id": 10,
                 "name": "Science -2013 Set 2",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 13 set-2.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 13 set-2.pdf"
             },
             {
                 "id": 11,
                 "name": "Science -2012 Set 3",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 12 set-3.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 12 set-3.pdf"
             },
             {
                 "id": 12,
                 "name": "Science -2011 Set 1",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 11 set-1.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 11 set-1.pdf"
             },
             {
                 "id": 13,
                 "name": "Science -2010 Set 1",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 10 set-1.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 10 set-1.pdf"
             },
             {
                 "id": 14,
                 "name": "Science -2019 Set 1",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 09 set-1.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 09 set-1.pdf"
             },
             {
                 "id": 15,
                 "name": "Science -2008 Set 1",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 08 set-1.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 08 set-1.pdf"
             },
             {
                 "id": 16,
                 "name": "Science -2007 Set 1",
-                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Math/science 07 set-1.pdf"
+                "pdfLink": "https://class10server.herokuapp.com/pdf/Board_Paper/Science/science 07 set-1.pdf"
             }
         ]
 
