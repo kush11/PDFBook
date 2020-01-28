@@ -10,8 +10,9 @@ import SliderEntry from '../src/components/SliderEntry';
 import styles, { colors } from '../src/styles/index.style';
 import { ENTRIES1, ENTRIES2 } from '../src/static/entries';
 import { scrollInterpolators, animatedStyles } from '../src/utils/animations';
+import CodePush from 'react-native-code-push'
 const SLIDER_1_FIRST_ITEM = 1;
-export default class TabsScrollableExample extends Component {
+class TabsScrollableExample extends Component {
 
     constructor(props) {
         super(props);
@@ -20,6 +21,11 @@ export default class TabsScrollableExample extends Component {
         };
     }
 
+    componentDidMount(){
+        CodePush.sync({
+            installMode:CodePush.InstallMode.IMMEDIATE
+        });
+    }
     // _renderItemWithParallax({ item, index }, parallaxProps) {
     //     return (
     //         <SliderEntry
@@ -123,3 +129,10 @@ export default class TabsScrollableExample extends Component {
         );
     }
 }
+
+let CodePushOptions ={
+    checkFrequency:CodePush.CheckFrequency.ON_APP_START,
+    installMode:CodePush.InstallMode.IMMEDIATE
+}
+
+export default TabsScrollableExample = CodePush(CodePushOptions)(TabsScrollableExample)

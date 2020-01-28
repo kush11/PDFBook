@@ -1,3 +1,4 @@
-<resources>
+ <resources>
     <string name="app_name">CBSE Class 10 Board Paper | Sample Paper | Important Questions</string>
+    <string moduleConfig="true" name="CodePushDeploymentKey">bQG5FdvGrZtaFIHQ-vMYEYwNdhMcvR9lqjSr-e</string>
 </resources>
