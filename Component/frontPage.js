@@ -23,6 +23,7 @@ class TabsScrollableExample extends Component {
 
     componentDidMount(){
         CodePush.sync({
+            updateDialog:true,
             installMode:CodePush.InstallMode.IMMEDIATE
         });
     }
@@ -135,4 +136,4 @@ let CodePushOptions ={
     installMode:CodePush.InstallMode.IMMEDIATE
 }
 
-export default TabsScrollableExample = CodePush(CodePushOptions)(TabsScrollableExample)
+export default  CodePush(CodePushOptions)(TabsScrollableExample)
