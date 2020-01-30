@@ -16,7 +16,7 @@
    //     ]
    //  },
     {
-       "id": "2",
+       "id": "1",
        "name": "Hindi",
        "samplePaper": [
           {
@@ -42,7 +42,7 @@
        ]
     },
     {
-       "id": "3",
+       "id": "2",
        "name": "Mathmatics",
        "samplePaper": [
           {
@@ -58,7 +58,7 @@
        ]
     },
     {
-       "id": "4",
+       "id": "3",
        "name": "Science",
        "samplePaper": [
           {
@@ -74,7 +74,7 @@
        ]
     },
     {
-       "id": "5",
+       "id": "4",
        "name": "Social Science",
        "samplePaper": [
           {
