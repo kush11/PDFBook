@@ -1,19 +1,22 @@
 import React from 'react';
 import { Text, View, TouchableOpacity, Dimensions, StyleSheet, FlatList } from 'react-native';
+import Analytics from 'appcenter-analytics';
 
-const ItemData = ({ data, item, navigation, title }) => {
+const ItemData = ({ tab,data, item, navigation, title }) => {
     // console.log(item.samplePaper);
     return (
         <View style={{ flex: 1, padding: 5 }}>
             <TouchableOpacity style={styles.elevation}
                 onPress={() =>
                 // console.log('pressed', item.samplePaper)
-                {
+                
+                {                    
                     navigation.navigate('ContentPage', {
                         datas: data,
                         item: item.samplePaper,
                         title,
-                    });
+                        tab
+                    },Analytics.trackEvent(tab, { title:title }));
                 }
 
                 }

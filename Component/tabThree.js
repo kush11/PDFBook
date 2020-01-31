@@ -13,7 +13,7 @@ export default class tabTree extends PureComponent {
     renderItem = ({ item }) => {
         return (
             <View style={{ height: 60, width: '100%' }}>
-                <ItemData title ={item.name} data={tabThreeJsonData} item={item} navigation={this.props.navigation} />
+                <ItemData tab='Questions' title ={item.name} data={tabThreeJsonData} item={item} navigation={this.props.navigation} />
             </View>
         )
     }

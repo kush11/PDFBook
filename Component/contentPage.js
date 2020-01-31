@@ -1,7 +1,6 @@
 import React, { PureComponent } from 'react';
 import { Text, View, TouchableOpacity, Dimensions, StyleSheet, SafeAreaView, FlatList } from 'react-native';
-import { Item } from 'native-base';
-
+import Analytics from 'appcenter-analytics';
 class componentName extends PureComponent {
     constructor(props) {
         super(props);        
@@ -14,18 +13,13 @@ class componentName extends PureComponent {
             title: params ? params.title : 'Class 10',
         };
       };
-    renderItem = ({ item, navigation }) => {        
+    renderItem = ({ item, navigation },activeTab) => {          
         return (
             <View style={{ height: 60, width: '100%' }}>
                 <TouchableOpacity style={styles.elevation}
-                    onPress={
-                        () =>
-                            // console.log('pressed', data.pdfLink),
-                            this.props.navigation.navigate('PdfView', {
-                                // pdfUrl: 'http://samples.leanpub.com/thereactnativebook-sample.pdf'
-                                pdfUrl: item.pdfLink
-                            })
-                    }
+                    onPress={()=>{
+                        this.props.navigation.navigate('PdfView', {pdfUrl: item.pdfLink}, Analytics.trackEvent(`${activeTab}_pdfData`, { pdfOpened:item.name }));
+                    }}                
                 >
                     <View style={{
                         flex: 1.5,
@@ -57,6 +51,7 @@ class componentName extends PureComponent {
         const { navigation } = this.props;
         //itemId: {JSON.stringify(navigation.getParam('itemId', 'NO-ID'))}        
         const contentPageData = navigation.getParam('item');
+        const activeTab = navigation.getParam('tab');
         const allDataFromPage = navigation.getParam('datas');
         // contentPageData.samplePaper.english.map((d)=>{console.log(d)})
         const allData = contentPageData;        
@@ -94,7 +89,7 @@ class componentName extends PureComponent {
                 <SafeAreaView style={{ flex: 1, width: '100%' }}>
                     <FlatList
                         data={allData}
-                        renderItem={(item) => this.renderItem(item)}
+                        renderItem={(item) => this.renderItem(item, activeTab)}
                         keyExtractor={item => item.id.toString()}
                     />
                 </SafeAreaView>

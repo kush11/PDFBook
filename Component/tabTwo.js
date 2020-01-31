@@ -13,7 +13,7 @@ export default class tabTwo extends PureComponent {
     renderItem = ({ item }) => {
         return (
             <View style={{ height: 60, width: '100%' }}>
-                <ItemData title ={item.name} data={tabTwoJsonData} item={item} navigation={this.props.navigation} />
+                <ItemData tab='SamplePaper' title ={item.name} data={tabTwoJsonData} item={item} navigation={this.props.navigation} />
             </View>
         )
     }
