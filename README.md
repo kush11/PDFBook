@@ -33,3 +33,4 @@ import com.microsoft.codepush.react.CodePush;
             return CodePush.getJSBundleFile();
         }
 ```
+Merge to master build auto create
